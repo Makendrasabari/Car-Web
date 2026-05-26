@@ -102,11 +102,11 @@ function Home() {
           
           <h1 className="hero-title">
             Unleash the Drive <br />
-            of <span>Ha Pat</span>
+            of <span>Fortune</span>
           </h1>
           
           <p className="hero-desc">
-            Welcome to Ha Pat. We combine bespoke craftsmanship, futuristic electric drivetrains, and breathtaking dynamics to deliver the absolute peak of luxury travel.
+            Welcome to Fortune. We combine bespoke craftsmanship, futuristic electric drivetrains, and breathtaking dynamics to deliver the absolute peak of luxury travel.
           </p>
           
           <div className="hero-btns">
@@ -146,7 +146,7 @@ function Home() {
           <span className="badge">Ha Pat Prestige Limo</span>
           <h2>Redefining Excellence</h2>
           <p>
-            Every Ha Pat vehicle is built upon pillars of meticulous engineering, luxurious materials, and next-generation innovation.
+            Every Fortune vehicle is built upon pillars of meticulous engineering, luxurious materials, and next-generation innovation.
           </p>
         </div>
 
@@ -209,7 +209,7 @@ function Home() {
               {/* Display Image */}
               <img 
                 src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=800" 
-                alt="Ha Pat Apex GT" 
+                alt="Fortune Apex GT" 
                 style={{
                   width: "100%",
                   height: "100%",
